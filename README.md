@@ -10,7 +10,7 @@ Bem-vindo ao meu repositório de estudos! Aqui concentro os códigos, anotaçõe
 
 ## Desafios e Projetos:
 
-   ![DIO Logo](src/main/resources/icons/Desafio.webp)
+   ![DIO Logo](src/main/resources/icons/Desafio.webp) ![DIO Logo](src/main/resources/icons/Gold.webp)
 
 Abaixo listo os desafios práticos do curso, organizados por nível de complexidade e módulo.
 
