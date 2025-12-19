@@ -64,8 +64,7 @@ Desenvolvimento moderno com interfaces declarativas e injeção de dependência.
 
 | Ícone | Desafio | Minha Solução e Tecnologias | Link |
 |:---:|---------|-----------------------------|------|
-| <img src="src/main/resources/icons/Cup.webp" alt="Cup Icon" width="72px"> | App para Acompanhar a Copa | Projeto Capstone<br>App completo consumindo API de jogos. Utilizei WorkManager para tarefas em background e Hilt para injeção de dependências.<br><br> *Techs: Jetpack Compose, Retrofit, Hilt* | 🔗 Código |
-
+| <img src="src/main/resources/icons/Cup.webp" alt="Cup Icon" width="72px"> | App para Acompanhar a Copa | Projeto Capstone<br>App completo consumindo API de jogos. Utilizei WorkManager para tarefas em background e Hilt para injeção de dependências.<br><br> *Techs: Jetpack Compose, Retrofit, Hilt* | 🔗 [Código](https://github.com/CelioPedro/UnitKotlin/tree/main/src/main/kotlin/desafioGithubSearch/app/src) |
 ------------------------------------------------------------------------------------------
 
 ## Tecnologias e Ferramentas:
